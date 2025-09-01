@@ -1,4 +1,5 @@
-cse572-dm
+dm_hw1
+env.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
